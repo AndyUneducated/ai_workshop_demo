@@ -1,9 +1,9 @@
-# ai-workshops
+# alchemy
 
-[![CI](https://github.com/AndyUneducated/ai-workshops/actions/workflows/ci.yml/badge.svg)](https://github.com/AndyUneducated/ai-workshops/actions/workflows/ci.yml)
+[![CI](https://github.com/AndyUneducated/alchemy/actions/workflows/ci.yml/badge.svg)](https://github.com/AndyUneducated/alchemy/actions/workflows/ci.yml)
 [![Python](https://img.shields.io/badge/python-3.12%2B-blue)](https://www.python.org/downloads/)
 [![License](https://img.shields.io/badge/license-Apache--2.0-green)](LICENSE)
-[![repo size](https://img.shields.io/github/repo-size/AndyUneducated/ai-workshops)](https://github.com/AndyUneducated/ai-workshops)
+[![repo size](https://img.shields.io/github/repo-size/AndyUneducated/alchemy)](https://github.com/AndyUneducated/alchemy)
 
 > Personal **vibe-coding sandbox** for LLM engineering — local RAG, multi-agent scenarios, declarative workflows, and an lm-evaluation-harness-style eval stack, wired into a closed-loop SFT experiment. Not a single shipped product; many small `play/` experiments with shared contracts.
 
